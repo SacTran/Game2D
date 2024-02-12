@@ -10,7 +10,7 @@ public class Bullet extends Entity{
         name = "Bullet";
         direction = "down";
         collision = false;
-        speed = 10;
+        speed = 12;
         maxLife = 6;
         life = maxLife;
         type = 3;
